@@ -1,6 +1,6 @@
 name: Ventana a la Biodiversidad
 favicon: null
-layout_spectrum: 0.18805258185602725
+layout_spectrum: 1
 typography_spectrum: 0.2395305351819843
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7504537864588201
-  lightness: 0.9026718020904809
-  saturation: 0.5918754250742495
-  rhythmicContrast: 0.5501011912710965
+    - '#f5f2cc'
+    - '#3c303a'
+    - '#9d808c'
+    - '#74a6bd'
+    - '#0f66c1'
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
