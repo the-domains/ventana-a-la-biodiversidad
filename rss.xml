@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ventana a la Biodiversidad]]></title>
+        <description><![CDATA[Ventana a la Biodiversidad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 17:34:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ventana a la Biodiversidad -teaser-]]></title>
+            <description><![CDATA[<article><h1>Ventana a la Biodiversidad -teaser-</h1><p>Teaser de la nueva iniciativa de la Red de Ventaner@s que conecta cultura y biodiversidad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8c82c1ba52dd1ae93476a8d030fb0501fa01be.jpg"></article>]]></description>
+            <link>https://vimeo.com/144233125</link>
+            <guid isPermaLink="false">27926b3d-de37-436c-96a9-1e461cf15255</guid>
+            <pubDate>Wed, 13 Jan 2016 17:34:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
